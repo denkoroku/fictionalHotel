@@ -1,5 +1,5 @@
 # fictionalHotel
-Hotel booking app
+Full stack Hotel booking app using Vue, Express, Mongo, Node
 
 1. Navigate to server
   * npm install
